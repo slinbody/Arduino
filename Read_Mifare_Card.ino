@@ -1,3 +1,4 @@
+//Mifare卡，例如：悠遊卡
 unsigned long card = 0 ;
 unsigned long inByte[4];
 unsigned long mifare_mask = 1073741823;
