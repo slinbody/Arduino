@@ -1,3 +1,4 @@
+// 16 PIXELS, rainbow color cycle
 // NeoPixel Ring simple sketch (c) 2013 Shae Erisson
 // released under the GPLv3 license to match the rest of the AdaFruit NeoPixel library
 
