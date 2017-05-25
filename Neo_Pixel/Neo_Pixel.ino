@@ -27,7 +27,6 @@ void setup() {
   if (F_CPU == 16000000) clock_prescale_set(clock_div_1);
 #endif
   // End of trinket special code
-  randomSeed(analogRead(0));
   pixels.begin(); // This initializes the NeoPixel library.
 }
 int index=0;
